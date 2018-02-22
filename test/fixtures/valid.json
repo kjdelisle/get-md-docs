@@ -1,0 +1,9 @@
+{
+  "org": "myorg",
+  "repo": "myrepo",
+  "packages": {
+    "samoflange": {
+      "docsDir": "docs"
+    }
+  }
+}

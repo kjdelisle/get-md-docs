@@ -1,0 +1,17 @@
+{
+  "name": "get-docs",
+  "version": "0.1.0",
+  "description": "Retrieve all of the Markdown docs (including README) from a repository.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test/*.test.js"
+  },
+  "author": "Kevin Delisle <kjdelisle@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "octokat": "^0.9.2"
+  },
+  "devDependencies": {
+    "tap": "^11.1.1"
+  }
+}
