@@ -1,6 +1,6 @@
-# get-repo
+# get-md-docs
 
-![](https://travis-ci.org/kjdelisle/get-docs.svg?branch=master)
+![](https://travis-ci.org/kjdelisle/get-md-docs.svg?branch=master)
 
 Retrieve all of the Markdown docs (including README) from a repository.
 

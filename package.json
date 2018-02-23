@@ -1,5 +1,5 @@
 {
-  "name": "get-docs",
+  "name": "get-md-docs",
   "version": "1.0.0",
   "description":
     "Retrieve all of the Markdown docs (including README) from a repository.",
