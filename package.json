@@ -1,7 +1,8 @@
 {
   "name": "get-docs",
   "version": "1.0.0",
-  "description": "Retrieve all of the Markdown docs (including README) from a repository.",
+  "description":
+    "Retrieve all of the Markdown docs (including README) from a repository.",
   "main": "index.js",
   "bin": {
     "get-docs": "./bin/get-docs.js"
@@ -10,6 +11,8 @@
     "test": "tap test/*.test.js",
     "pretest": "eslint ."
   },
+  "keywords": ["markdown", "git", "docs", "get-docs"],
+  "repository": "https://github.com/kjdelisle/get-docs",
   "author": "Kevin Delisle <kjdelisle@gmail.com>",
   "license": "MIT",
   "dependencies": {
