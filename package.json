@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "description": "Retrieve all of the Markdown docs (including README) from a repository.",
   "main": "index.js",
+  "bin": {
+    "get-docs": "./bin/get-docs.js"
+  },
   "scripts": {
     "test": "tap test/*.test.js",
     "pretest": "eslint ."
@@ -15,7 +18,8 @@
     "fs-extra": "^5.0.0",
     "lodash": "^4.17.5",
     "readdir-absolute": "^1.0.1",
-    "simple-git": "^1.91.0"
+    "simple-git": "^1.91.0",
+    "yargs": "^11.0.0"
   },
   "devDependencies": {
     "tap": "^11.1.1"
