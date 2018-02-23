@@ -1,3 +1,9 @@
+2018-02-23, Version 1.0.2
+=========================
+
+ * chore: fix usage instructions (Kevin Delisle)
+
+
 2018-02-23, Version 1.0.1
 =========================
 
