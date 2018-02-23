@@ -6,8 +6,10 @@ Retrieve all of the Markdown docs (including README) from a repository.
 
 ## Usage
 
-```
-npm i -g get-docs
+```sh
+# Install
+npm i -g get-md-docs
+# Run
 get-docs --org your-org --repo your-repo --dest ./folder-for-docs
 ```
 
