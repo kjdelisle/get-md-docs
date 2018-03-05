@@ -26,3 +26,9 @@ get-docs --org your-org --repo your-repo --dest ./folder-for-docs
 
 I needed to rip Markdown docs from a bunch of repositories for use in a
 Jekyll-based page; if you find another use for it, that's awesome!
+
+## Contributors
+
+Many thanks to those that helped make this module great!
+
+@virkt25
